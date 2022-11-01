@@ -1,6 +1,4 @@
 # kadanes algorithm for finding the maximum sum of sub array 
-
-
 n=int(input())
 l=list(map(int,input().split()))
 max_final=l[0]

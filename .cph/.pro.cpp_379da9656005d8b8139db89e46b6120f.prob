@@ -1,0 +1,1 @@
+{"name":"Local: pro","url":"/home/msbala/msbala/python/pro.cpp","tests":[{"id":1667881099526,"input":"4\n1 5 3 4\n4\n1 2 3 4","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/msbala/msbala/python/pro.cpp","group":"local","local":true}

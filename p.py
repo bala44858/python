@@ -1,10 +1,7 @@
-
-for _ in range(int(input())):
-    n=int(input())
-    for i in range(n):
-        s=input()
-        if s[i]=="0":
-            print("1",end="")
-        else:
-            print("0",end="")
-    print('')
+l=[1,2,3,4,5]
+m=max(l)
+mm=-10**9
+for i in l:
+    if i!=m:
+        mm=max(mm,i)
+print(mm)

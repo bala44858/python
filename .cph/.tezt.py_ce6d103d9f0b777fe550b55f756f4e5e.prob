@@ -1,0 +1,1 @@
+{"name":"Local: tezt","url":"/home/msbala/msbala/python/tezt.py","tests":[{"id":1673770653386,"input":"1\naaaaaaaaa","output":"Yes"},{"id":1674454771529,"input":"2\nabababab\nabba","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/msbala/msbala/python/tezt.py","group":"local","local":true}

@@ -1,1 +1,1 @@
-{"name":"Local: heap","url":"/home/msbala/msbala/python/heap.py","tests":[{"id":1667296913394,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/msbala/msbala/python/heap.py","group":"local","local":true}
+{"name":"Local: heap","url":"/home/msbala/msbala/python/heap.py","tests":[{"id":1667296913394,"input":"3\n2\n3\n4","output":"0\n2"},{"id":1674747789415,"input":"1\n4\n1110","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/msbala/msbala/python/heap.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: cc","url":"/home/msbala/msbala/python/cc.cpp","tests":[{"id":1675791541109,"input":"4\n1 2 3 4\n4\n4 5 6 6 ","output":"1 2 3 4 5 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/msbala/msbala/python/cc.cpp","group":"local","local":true}
